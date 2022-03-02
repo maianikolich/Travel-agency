@@ -1,0 +1,151 @@
+*{
+ margin:0;
+ padding: 0;
+}
+body{
+ font-family: cursive;
+ font-size: 20px;
+ background: white;
+  
+
+ 
+}
+header{
+ background: white;
+}
+#wrapp{
+ width: 90%;
+ margin: 0 auto;
+ border: 1px solid gray;
+}
+
+.clr{
+ clear: both;
+}
+h1{
+ text-align: center;
+ font-size: 50px;
+ font-style: oblique;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+nav ul{
+ list-style: none;
+ background: #00CCFF;
+ border: 1px solid gray;
+ margin-bottom: 10px;
+}
+nav ul li{
+ display: inline-block;
+ width: 200px;
+ height: 20px;
+ line-height: 10px;
+ margin-right: 30px;
+ font-size: 20px;
+ margin-left: 50px;
+ margin-top: 20px;
+ 
+}
+
+
+footer{
+ width: 100%;
+ background:#00CCFF ;
+ margin: 0 auto;
+ height: 250px;
+ border: 1px solid gray;
+ }
+
+.adresa{
+ height: 250px;
+ width: 300px;
+ 
+ margin-left: 70px;
+ float: left;
+ margin-top: 25px;
+ 
+
+}
+h3{
+ text-align: center;
+ font-weight: bold;
+}
+p{
+ text-align: center;
+}
+.mreze {
+ width: 70px;
+ height: 70px;
+ margin-left: 50px;
+ margin-top: 20px;
+}
+span{
+ color: #00CCFF;
+}
+#ugao{
+  background: #00CCFF;
+  border: 1px solid gray;
+}
+#vrh {
+ font-size: 20px;
+ text-align: right;
+ margin-right: 10px;
+}
+
+form{
+ float: right;
+ margin-right: 20px;
+ margin-top: 30px;
+ 
+ 
+}
+#search{
+ width: 130px;
+ height: 25px;
+ text-align:center;
+ border: 1px solid #00CCFF;
+ border-radius: 10px;
+}
+#button{
+ width: 80px;
+ height: 25px;
+ text-align:center;
+ border: 1px solid #00CCFF;
+ border-radius: 10px;
+ background: #00CCFF;
+ font-weight: bold;
+}
+.jedan{
+ 
+ width: 500px;
+ height: 500px;
+ 
+}
+.glavni{
+ width: 100%;
+ margin: 0 auto;
+ background: white;
+}
+article{
+ border: 1px solid gray;
+ float: left;
+ margin-left:70px;
+ background: #00CCFF;
+ margin-top: 20px;
+ margin-bottom:30px;
+ 
+ }
+ 
+ h2{
+   padding: 20px;
+   margin-left: 70px;
+   border: 1px solid gray;
+   margin-right: 70px;
+   background: #00CCFF;
+   
+ }
+ h4{
+ text-align: center;
+ 
+ 
+}
